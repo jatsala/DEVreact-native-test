@@ -4,7 +4,7 @@
     "strict": true,
     "baseUrl": ".",
     "paths": {
-      "@/*": ["src/*"], // If you're only using the "src" folder use: "src/*"
+      "@/*": ["src/*"],
       "@components/*": ["src/components/*"]
     }
   }
