@@ -19,6 +19,9 @@ const DayDetailsScreen = () => {
       <Link href='/day4/animation' asChild>
         <Button title='Go to the animation' />
       </Link>
+      <Link href='/day4/splash' asChild>
+        <Button title='Splash screen animation' />
+      </Link>
     </SafeAreaView>
   );
 };
